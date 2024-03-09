@@ -1,0 +1,1 @@
+This is a website which is built for a inter college business plan competition the main purpose of this website is going to be registrations and content viewing it also serves as a marketing website to the college 
